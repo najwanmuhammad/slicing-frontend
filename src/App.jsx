@@ -1,6 +1,7 @@
 
 import Navbar from "./components/Navbar";
 import ProductPage from "./components/ProductPage";
+import './assets/App.css';
 
 const App = () => {
   return (

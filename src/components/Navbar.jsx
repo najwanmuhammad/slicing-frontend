@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import '../assets/App.css';
 import iconPhone from "../assets/img/icon/icon_phone.svg";
 import iconMail from "../assets/img/icon/icon_mail.svg";
 import iconInstagram from "../assets/img/icon/icon_instagram.svg";
