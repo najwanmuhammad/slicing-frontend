@@ -1,4 +1,7 @@
+/* eslint-env node */
+
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
   content: [
     "./index.html", // Untuk file HTML utama proyek
